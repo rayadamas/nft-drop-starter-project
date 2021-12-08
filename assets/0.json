@@ -1,0 +1,19 @@
+{
+ "name": "nervous_uwu",
+ "symbol": "",
+ "image": "0.png",
+ "properties": {
+   "files": [
+     {
+       "uri": "0.png",
+       "type": "image/png"
+     }
+   ],
+   "creators": [
+     {
+       "address": "EnQaWGQi4YTbFcFbMtdzHxg8Gujm6RvMi7TShY6y1Bjn",
+       "share": 100
+     }
+   ]
+ }
+}
